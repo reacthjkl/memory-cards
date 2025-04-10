@@ -11,11 +11,11 @@ td {
   border: 1px solid #838595;
 }
 
-.hidden-memory-card{
+.hidden-memory-card {
   color: #b9bcd0;
   user-select: none;
 }
 
-.shown-memory-card{
+.shown-memory-card {
   background-color: #e8e1e1;
 }

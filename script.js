@@ -7,8 +7,8 @@ mixArray(cards);
 printTable(cards);
 
 document.getElementById("memory-table").addEventListener("click", (e) => {
-  e.target.classList.remove('hidden-memory-card');
-  e.target.classList.add('shown-memory-card');
+  e.target.classList.remove("hidden-memory-card");
+  e.target.classList.add("shown-memory-card");
 });
 
 function printTable(elements) {
