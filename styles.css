@@ -1,0 +1,21 @@
+.my-table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 50px;
+  background-color: #b9bcd0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #385a81;
+  border: 1px solid #838595;
+}
+
+.hidden-memory-card{
+  color: #b9bcd0;
+  user-select: none;
+}
+
+.shown-memory-card{
+  background-color: #e8e1e1;
+}
