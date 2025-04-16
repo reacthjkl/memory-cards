@@ -9,13 +9,14 @@ td {
   font-weight: bold;
   color: #385a81;
   border: 1px solid #838595;
+  user-select: none;
 }
 
-.hidden-memory-card {
+.hidden-memory-card{
   color: #b9bcd0;
   user-select: none;
 }
 
-.shown-memory-card {
+.shown-memory-card{
   background-color: #e8e1e1;
 }
